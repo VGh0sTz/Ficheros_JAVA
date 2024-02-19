@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contenedores>
+    <grandes> <!--Acepta envases grandes -->
+        <G_ancho tipo="alimentos">
+            <agua tipo="alimentos"></agua>
+            <Leche tipo="alimentos"></Leche>
+            <Aceite tipo="alimentos"></Aceite>
+            <Vinagre tipo="alimentos"></Vinagre>
+        </G_ancho>
+        <G_alto tipo="alimentos">
+            <agua tipo="alimentos"></agua>
+            <Leche tipo="alimentos"></Leche>
+            <Aceite tipo="alimentos"></Aceite>
+            <Vinagre tipo="alimentos"></Vinagre>
+        </G_alto>
+    </grandes>
+
+    <medianos> <!--Acepta envases medianos -->
+        <M_ancho tipo="alimentos">
+            <agua tipo="alimentos"></agua>
+            <Leche tipo="alimentos"></Leche>
+            <Aceite tipo="alimentos"></Aceite>
+            <Vinagre tipo="alimentos"></Vinagre>
+        </M_ancho>
+        <M_alto tipo="sustancias_corrosivas">
+            <Lejía tipo="sustancias_corrosivas"></Lejía>
+            <Amoniaco tipo="sustancias_corrosivas"></Amoniaco>
+            <Jabón tipo="sustancias_corrosivas"></Jabón>
+            <Aguarrás tipo="sustancias_corrosivas"></Aguarrás>
+            <Gasolina tipo="sustancias_corrosivas"></Gasolina>
+            <Alcohol tipo="sustancias_corrosivas"></Alcohol>
+        </M_alto>
+        <pequeño tipo="sustancias_corrosivas">
+            <Lejía tipo="sustancias_corrosivas"></Lejía>
+            <Amoniaco tipo="sustancias_corrosivas"></Amoniaco>
+            <Jabón tipo="sustancias_corrosivas"></Jabón>
+            <Aguarrás tipo="sustancias_corrosivas"></Aguarrás>
+            <Gasolina tipo="sustancias_corrosivas"></Gasolina>
+            <Alcohol tipo="sustancias_corrosivas"></Alcohol>
+        </pequeño>
+    </medianos>
+
+    <verticales> <!--Acepta envases verticales -->
+        <G_alto tipo="alimentos">
+            <agua tipo="alimentos"></agua>
+            <Leche tipo="alimentos"></Leche>
+            <Aceite tipo="alimentos"></Aceite>
+            <Vinagre tipo="alimentos"></Vinagre>
+        </G_alto>
+        <M_alto tipo="sustancias_corrosivas">
+            <Lejía tipo="sustancias_corrosivas"></Lejía>
+            <Amoniaco tipo="sustancias_corrosivas"></Amoniaco>
+            <Jabón tipo="sustancias_corrosivas"></Jabón>
+            <Aguarrás tipo="sustancias_corrosivas"></Aguarrás>
+            <Gasolina tipo="sustancias_corrosivas"></Gasolina>
+            <Alcohol tipo="sustancias_corrosivas"></Alcohol>
+        </M_alto>
+    </verticales>
+</contenedores>

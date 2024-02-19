@@ -1,0 +1,23 @@
+{
+  "contenedores": {
+    "grandes": {
+      "G_ancho": {
+        "tipo": "alimentos",
+        "liquidos" :[
+          {
+            "nombre": "Agua"
+          },
+          {
+            "nombre": "Leche"
+          },
+          {
+            "nombre": "Aceite"
+          },
+          {
+            "nombre": "Vinagre"
+          }
+        ]
+      }
+    }
+  }
+}

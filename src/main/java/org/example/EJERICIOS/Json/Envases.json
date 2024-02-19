@@ -1,0 +1,134 @@
+{
+  "contenedores": {
+        "grandes": {
+          "G_ancho": {
+            "tipo": "alimentos",
+              "agua": {
+                "tipo": "alimentos"
+              },
+              "Leche": {
+                "tipo": "alimentos"
+              },
+              "Aceite": {
+                "tipo": "alimentos"
+              },
+              "Vinagre": {
+                "tipo": "alimentos"
+              }
+          },
+          "G_alto": {
+            "tipo": "alimentos",
+              "agua": {
+                "tipo": "alimentos"
+              },
+              "Leche": {
+                "tipo": "alimentos"
+              },
+              "Aceite": {
+                "tipo": "alimentos"
+              },
+              "Vinagre": {
+                "tipo": "alimentos"
+              }
+          }
+        },
+        "medianos": {
+          "M_ancho": {
+            "tipo": "alimentos",
+              "agua": {
+                "tipo": "alimentos"
+              },
+              "Leche": {
+                "tipo": "alimentos"
+              },
+              "Aceite": {
+                "tipo": "alimentos"
+              },
+              "Vinagre": {
+                "tipo": "alimentos"
+              }
+          },
+          "M_alto": {
+            "tipo": "sustancias_corrosivas",
+              "Lejía": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Amoniaco": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Jabón": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Aguarrás": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Gasolina": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Alcohol": {
+                "tipo": "sustancias_corrosivas"
+              }
+          },
+          "pequeño": {
+            "tipo": "sustancias_corrosivas",
+              "Lejía": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Amoniaco": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Jabón": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Aguarrás": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Gasolina": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Alcohol": {
+                "tipo": "sustancias_corrosivas"
+              }
+            }
+        },
+        "verticales": {
+          "G_alto": {
+            "tipo": "alimentos",
+              "agua": {
+                "tipo": "alimentos"
+              },
+              "Leche": {
+                "tipo": "alimentos"
+              },
+              "Aceite": {
+                "tipo": "alimentos"
+              },
+              "Vinagre": {
+                "tipo": "alimentos"
+              }
+          },
+          "M_alto": {
+            "tipo": "sustancias_corrosivas",
+              "Lejía": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Amoniaco": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Jabón": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Aguarrás": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Gasolina": {
+                "tipo": "sustancias_corrosivas"
+              },
+              "Alcohol": {
+                "tipo": "sustancias_corrosivas"
+              }
+          }
+        }
+  }
+
+}

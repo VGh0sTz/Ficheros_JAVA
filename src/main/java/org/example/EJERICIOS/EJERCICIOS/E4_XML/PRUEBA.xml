@@ -1,0 +1,44 @@
+<LISTA>
+  <atletas>
+    <atleta>
+      <nombre>Maria Castañuela Sanchez</nombre>
+      <prueba>
+        <prueba>Salto con Pértiga</prueba>
+        <prueba>100 Metros con obstáculos</prueba>
+        <prueba>Salto de Longitud</prueba>
+      </prueba>
+      <edad>25</edad>
+      <pais>España</pais>
+    </atleta>
+    <atleta>
+      <nombre>Pamela Pérez</nombre>
+      <prueba>
+        <prueba>Salto con Pértiga</prueba>
+        <prueba>100 Metros con obstáculos</prueba>
+        <prueba>Salto de Longitud</prueba>
+      </prueba>
+      <edad>31</edad>
+      <pais>España</pais>
+    </atleta>
+    <atleta>
+      <nombre>Shasha Pietrovitch</nombre>
+      <prueba>
+        <prueba>Salto con Pértiga</prueba>
+        <prueba>100 Metros con obstáculos</prueba>
+        <prueba>Salto de Longitud</prueba>
+      </prueba>
+      <edad>24</edad>
+      <pais>Russia</pais>
+    </atleta>
+    <atleta>
+      <nombre>Victoria Mariel</nombre>
+      <prueba>
+        <prueba>Salto con Pértiga</prueba>
+        <prueba>100 Metros con obstáculos</prueba>
+        <prueba>Salto de Longitud</prueba>
+      </prueba>
+      <edad>29</edad>
+      <pais>US</pais>
+    </atleta>
+  </atletas>
+</LISTA>

@@ -1,0 +1,21 @@
+[ {
+  "titulo" : "El principito",
+  "autor" : "Antoine de Saint-Exupéry",
+  "año_publicación" : 1943,
+  "id" : 978314046
+}, {
+  "titulo" : "La sombra del viento",
+  "autor" : "Carlos Ruiz Zafón",
+  "año_publicación" : 2001,
+  "id" : 945561458
+}, {
+  "titulo" : "El día que se perdió la cordura",
+  "autor" : "Javier Castillo",
+  "año_publicación" : 2023,
+  "id" : 454519845
+}, {
+  "titulo" : "La paciente silenciosa",
+  "autor" : "Alex Michaelides",
+  "año_publicación" : 2019,
+  "id" : 486156820
+} ]

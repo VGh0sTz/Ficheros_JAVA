@@ -1,0 +1,16 @@
+[ {
+  "nombre" : "Carla asasdas",
+  "deporte" : "Fútbol",
+  "edad" : 25,
+  "pais" : "España"
+}, {
+  "nombre" : "Billie Jean King",
+  "deporte" : "Tenis",
+  "edad" : 79,
+  "pais" : "Estados Unidos"
+}, {
+  "nombre" : "Kathrine Switzer",
+  "deporte" : "Atleta",
+  "edad" : 76,
+  "pais" : "Alemania"
+} ]
